@@ -5,7 +5,5 @@ ipinfo.io
 ironfoxoss.org
 izzysoft.de
 molly.im
-newpipe.net
-speed.cloudflare.com
+newpipe.net 
 visible.com
-whatismyisp.com
