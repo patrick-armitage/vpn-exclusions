@@ -1,3 +1,4 @@
+bestbuy.com
 f-droid.org
 github.io
 guardianproject.info
@@ -6,7 +7,7 @@ ironfoxoss.org
 izzysoft.de
 lululemon.com
 molly.im
-newpipe.net 
+newpipe.net
 pbteen.com
 visible.com
 woodlandcreekfurniture.com
